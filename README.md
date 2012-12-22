@@ -27,7 +27,7 @@ Or install it yourself as:
 
 Add the following directive to your Stylesheet manifest file (application.css):
 
-    //= require zocial
+    *= require zocial
 
 ## Versioning
 
