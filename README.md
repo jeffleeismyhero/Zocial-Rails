@@ -1,7 +1,7 @@
 # Zocial::Rails
 
 Zocial-Rails wraps the Zocial CSS library in a Rails engine for use with the
-asset pipeline provided by Rails 3.1. Assets will be automatically minified by
+asset pipeline provided by Rails 3.1+. Assets will be automatically minified by
 the asset pipeline in production.
 
 Please refer to the Zocial website and GitHub repositories for usage details
